@@ -12,4 +12,6 @@ Another big field Visualyze can get into is sports. For sports like basketball a
 
 There are countless other industries ready to be innovavated with just a few pushes of a button. Confused on which ones? Just Visualyze it.
 
-This project is: hosted on visualyze.tech
+***
+
+This project is hosted on [visualyze.tech](visuzlyze.tech)
